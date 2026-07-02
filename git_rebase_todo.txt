@@ -1,0 +1,8 @@
+reword 9fee04d first commit
+pick d2ec932 test
+pick af9b486 Initial commit
+pick 52389cb Update app colors to coordinated pink theme
+pick ccfcd2e Fix merge conflict in README.md
+pick be283f8 Update README.md
+pick 2698e7d Add custom back button background drawable
+pick 2c31e4c Improve back button UI with custom size and padding
